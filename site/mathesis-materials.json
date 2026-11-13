@@ -1,0 +1,14 @@
+{
+  "schema": "mathesis.materials.v1",
+  "work": "oeis-a381423-hermite-differences",
+  "version": 3,
+  "repository_url": "https://github.com/mathesis-papers/6aec385cf92dd78867a52d00",
+  "site_url": "https://papers.trureturing.org/6aec385cf92dd78867a52d00/",
+  "doi": "10.5281/zenodo.23957586",
+  "reading": {
+    "en": "https://papers.trureturing.org/6aec385cf92dd78867a52d00/en/",
+    "zh": "https://papers.trureturing.org/6aec385cf92dd78867a52d00/zh/"
+  },
+  "slides": [],
+  "visualizations": []
+}

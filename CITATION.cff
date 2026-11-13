@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it."
+title: "Resolving the Hermite coefficient conjectures in OEIS A381423, Comments (revision 8)"
+authors:
+  - name: "Haobo Ma"
+  - name: "Wenlin Zhang"
+date-released: "2026-11-05"
+version: "3"
+url: "https://mathesis-omega-research.apps.chrono-ai.fun/papers/oeis-a381423-hermite-differences?version=3"
+doi: "10.5281/zenodo.23957586"
+license: "CC-BY-4.0"

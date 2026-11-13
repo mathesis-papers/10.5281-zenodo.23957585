@@ -1,0 +1,62 @@
+{
+  "status": "pass",
+  "arithmetic": "exact integers",
+  "coefficient_recurrence": "H_0=1; H_1=2x; H_n=2xH_(n-1)-2(n-1)H_(n-2)",
+  "polynomial_degrees": {
+    "first": 0,
+    "last": 600,
+    "count": 601
+  },
+  "polynomial_checks": [
+    "finite expansion",
+    "unique signed maximum",
+    "signed maximum value",
+    "least absolute maximum",
+    "absolute closed formula",
+    "absolute difference values",
+    "absolute maximum value",
+    "complete two-maximum degree list",
+    "signed absolute equality criterion",
+    "signed absolute interlacing"
+  ],
+  "two_maximum_degrees_in_polynomial_range": 16,
+  "threshold_degrees": {
+    "first": 0,
+    "last": 1000000,
+    "count": 1000001
+  },
+  "threshold_checks": [
+    "quartic and quadratic selectors",
+    "closed formula",
+    "mode increments",
+    "difference-block lengths",
+    "quadratic indices of length-five blocks"
+  ],
+  "complete_blocks": 249647,
+  "length_five_blocks": 1411,
+  "absolute_threshold_checks": [
+    "closed formula with exact-square boundary",
+    "least quadratic selector",
+    "two difference-block lengths",
+    "quadratic length-three block indices"
+  ],
+  "absolute_complete_blocks": 499294,
+  "absolute_length_three_blocks": 1412,
+  "exact_value_ratio_degrees": {
+    "first": 1,
+    "last": 600,
+    "count": 600
+  },
+  "generating_function_coefficients": {
+    "first": 0,
+    "last": 10000,
+    "count": 10001
+  },
+  "oeis_prefixes": {
+    "A381423": 72,
+    "A381524": 68,
+    "A381737": 37
+  },
+  "scope": "Finite comparisons; the all-degree conclusions have written proofs in note.tex.",
+  "checker_sha256": "d8f81f36c741b4cba8c538ee7e5a5870df864cecdc2f85efd45c84fadd3aeacd"
+}
