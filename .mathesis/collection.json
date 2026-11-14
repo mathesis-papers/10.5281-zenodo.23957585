@@ -1,7 +1,7 @@
 {
   "git_blobs": {
     ".github/workflows/pages.yml": "7879724db1358178aad7e9bed326a44be44f5a6a",
-    ".mathesis/generated.json": "62c35f02884187f94020c1c5032db006a88ad1c2",
+    ".mathesis/generated.json": "0c652fe935cdcbc0e6e526a1feda06b4f35e6a84",
     "CHANGELOG.md": "e7476742f12f9bc6fa3a0045d473dc91024c4cfa",
     "CITATION.cff": "dadd16002897213bf016fbd1776069080a0da94d",
     "CONTRIBUTING.md": "ea69168fc2cb506b57b00de1ef588aaf011aa3da",
@@ -13,12 +13,13 @@
     "manuscript/hermite-coefficient-modes-v3/metadata.json": "b0411de862179359a9ee9a5f7a86d3d2e64165c3",
     "manuscript/hermite-coefficient-modes-v3/note.tex": "c8c33cb76e1604e33cffa11fada93cfd522327b9",
     "manuscript/hermite-coefficient-modes-v3/verify.py": "d68bc67442d1abbd3b4fbe0bb35d485e535ab41f",
-    "paper.json": "f9a75fb585804ca0576a69edfd7a2ae0f5137002",
+    "paper.json": "4da7e1d4ed4e2af8ebd3fa910ad9a1a26067a51c",
     "paper.pdf": "854f5e28bf26d6c71fed39ba155d1356f936093b",
     "site/en/index.html": "3b2a3d9227bdeb4754679dbda7c65cc1b9ac5734",
-    "site/index.html": "ead3ef047e13151763686f6987b57b7f262996e5",
+    "site/index.html": "d58546ff023fd0b11e9db73fa5c6de2ba739befc",
     "site/mathesis-materials.json": "e367408dc39ccf81f31a58b7490ede0ef99ae78b",
     "site/zh/index.html": "8783afaff1faa6dd8ca6776cdc3f1201c1a0b3fe",
+    "source.archive": "0fa7e4bc9fe7be893c02164c3ab6c66270db5928",
     "versions/v3/.mathesis/generated.json": "9f8a6b85d20bd96c765239805ef9444871ece640",
     "versions/v3/CHANGELOG.md": "e7476742f12f9bc6fa3a0045d473dc91024c4cfa",
     "versions/v3/CITATION.cff": "dadd16002897213bf016fbd1776069080a0da94d",
@@ -32,12 +33,13 @@
     "versions/v3/manuscript/hermite-coefficient-modes-v3/note.tex": "c8c33cb76e1604e33cffa11fada93cfd522327b9",
     "versions/v3/manuscript/hermite-coefficient-modes-v3/verify.py": "d68bc67442d1abbd3b4fbe0bb35d485e535ab41f",
     "versions/v3/paper.json": "cf4239000829648516bd21a480182f49960eb6f4",
-    "versions/v3/paper.pdf": "854f5e28bf26d6c71fed39ba155d1356f936093b"
+    "versions/v3/paper.pdf": "854f5e28bf26d6c71fed39ba155d1356f936093b",
+    "versions/v3/source.archive": "0fa7e4bc9fe7be893c02164c3ab6c66270db5928"
   },
   "schema": "mathesis.paper-collection.v1",
   "sha256": {
     ".github/workflows/pages.yml": "f15d983dcb8f324ffdedb50b05f7380e11fda8723d49b5c8f10ef0f414612372",
-    ".mathesis/generated.json": "8d7e60d4caf228ff911d8b93bf6791e1d0392932d059bbbbb5006a6242b36b9f",
+    ".mathesis/generated.json": "527b45b4545ca9d47e273264cc87900d0e9bb441d13161ebc5b2be5ce5a1111d",
     "CHANGELOG.md": "6f4aa81b05a6f1f9d45a848a8ee77e6502ca78903f8a766ecb41346ee24b2543",
     "CITATION.cff": "8ad01a74d5b2851af2337ed55914b60ed3a57fbd4f81a29767e8c27dd57d06d3",
     "CONTRIBUTING.md": "fafd66e63160b2a88f433af56d2af2b0f7bf6ed2fd417d46b54446ce07c627ff",
@@ -49,12 +51,13 @@
     "manuscript/hermite-coefficient-modes-v3/metadata.json": "477f62a6cb3eef1a810eff91a741dedf7ec4485abfd4d5ac04532ba605617c47",
     "manuscript/hermite-coefficient-modes-v3/note.tex": "7ff60aa2643e4bd3850346d63401de04c9055d8900ac65df141d47c66a1ed901",
     "manuscript/hermite-coefficient-modes-v3/verify.py": "d8f81f36c741b4cba8c538ee7e5a5870df864cecdc2f85efd45c84fadd3aeacd",
-    "paper.json": "d5f9224cc341b1a56307108c7e4a5f3aaa311835a08aa783c663e89f5369083b",
+    "paper.json": "da2b8743b7073ce641467bf354dbbe527e9ad2a347e6692d0d4ed90959a809ee",
     "paper.pdf": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec",
     "site/en/index.html": "2a03822a8a90692c4f8ba82e61e7f38f92013fdde3dfdffed6b03004ffc7f9e8",
-    "site/index.html": "73c35f8b37149680d9afc6453a3b2c3b149d823425f6b03645ed6551d8d70254",
+    "site/index.html": "2385d6e85c30d255c3ae462d05b7aa5f523879b6d932e02abddfaab22558ff0f",
     "site/mathesis-materials.json": "26e888a8750775caab6c857fece1ea66643579e1d332b587265c0eea8afe9770",
     "site/zh/index.html": "38af2c3b7a98743bc58d9df9a198d0564a35a8a02ec67836667130c5dd2b45c9",
+    "source.archive": "b845034701b29e338ef1e2a0a5c12db84dc2af126ac9807fe7b9f2903fcfa69b",
     "versions/v3/.mathesis/generated.json": "28a006896d241fc358333c3619a1259479c059949d99070a9e81968615f6b855",
     "versions/v3/CHANGELOG.md": "6f4aa81b05a6f1f9d45a848a8ee77e6502ca78903f8a766ecb41346ee24b2543",
     "versions/v3/CITATION.cff": "8ad01a74d5b2851af2337ed55914b60ed3a57fbd4f81a29767e8c27dd57d06d3",
@@ -68,7 +71,8 @@
     "versions/v3/manuscript/hermite-coefficient-modes-v3/note.tex": "7ff60aa2643e4bd3850346d63401de04c9055d8900ac65df141d47c66a1ed901",
     "versions/v3/manuscript/hermite-coefficient-modes-v3/verify.py": "d8f81f36c741b4cba8c538ee7e5a5870df864cecdc2f85efd45c84fadd3aeacd",
     "versions/v3/paper.json": "a22789de8275d165a5fcbf873aea2c3762b67b0d5a1d08e41ab0dfd0a09f5c29",
-    "versions/v3/paper.pdf": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec"
+    "versions/v3/paper.pdf": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec",
+    "versions/v3/source.archive": "b845034701b29e338ef1e2a0a5c12db84dc2af126ac9807fe7b9f2903fcfa69b"
   },
   "version": 3,
   "work": "oeis-a381423-hermite-differences"

@@ -12,7 +12,8 @@
     "manuscript/hermite-coefficient-modes-v3/note.tex",
     "manuscript/hermite-coefficient-modes-v3/verify.py",
     "paper.json",
-    "paper.pdf"
+    "paper.pdf",
+    "source.archive"
   ],
   "generator_version": "0.1.0",
   "sha256": {
@@ -27,8 +28,9 @@
     "manuscript/hermite-coefficient-modes-v3/metadata.json": "477f62a6cb3eef1a810eff91a741dedf7ec4485abfd4d5ac04532ba605617c47",
     "manuscript/hermite-coefficient-modes-v3/note.tex": "7ff60aa2643e4bd3850346d63401de04c9055d8900ac65df141d47c66a1ed901",
     "manuscript/hermite-coefficient-modes-v3/verify.py": "d8f81f36c741b4cba8c538ee7e5a5870df864cecdc2f85efd45c84fadd3aeacd",
-    "paper.json": "d5f9224cc341b1a56307108c7e4a5f3aaa311835a08aa783c663e89f5369083b",
-    "paper.pdf": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec"
+    "paper.json": "da2b8743b7073ce641467bf354dbbe527e9ad2a347e6692d0d4ed90959a809ee",
+    "paper.pdf": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec",
+    "source.archive": "b845034701b29e338ef1e2a0a5c12db84dc2af126ac9807fe7b9f2903fcfa69b"
   },
-  "snapshot_identity": "6769145a449927d848468ac7bcb4b79dd3d32d998c12eceb6c4c00e8ab4879b9"
+  "snapshot_identity": "7342d1950e9a742c3847bfe779e9497580bf6f88f543d72cc55a12cd5437c454"
 }
