@@ -2,16 +2,16 @@
   "files": {
     "pdf": {
       "bytes": 82406,
-      "matches_public": null,
+      "matches_public": true,
       "path": "paper.pdf",
-      "public_sha256": null,
+      "public_sha256": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec",
       "sha256": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec"
     },
     "source": {
       "bytes": 15213,
-      "matches_public": null,
+      "matches_public": true,
       "path": "source.archive",
-      "public_sha256": null,
+      "public_sha256": "b845034701b29e338ef1e2a0a5c12db84dc2af126ac9807fe7b9f2903fcfa69b",
       "sha256": "b845034701b29e338ef1e2a0a5c12db84dc2af126ac9807fe7b9f2903fcfa69b"
     }
   },
@@ -38,6 +38,8 @@
     "license": "CC-BY-4.0",
     "msc": [],
     "pdf": {
+      "bytes": 82406,
+      "sha256": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec",
       "url": "/api/v1/collected-papers/oeis-a381423-hermite-differences/files/pdf?version=3"
     },
     "previous_version": null,
@@ -46,6 +48,8 @@
     "record": "oeis-a381423-hermite-differences",
     "repository_name": "10.5281-zenodo.23957585",
     "source": {
+      "bytes": 15213,
+      "sha256": "b845034701b29e338ef1e2a0a5c12db84dc2af126ac9807fe7b9f2903fcfa69b",
       "url": "/api/v1/collected-papers/oeis-a381423-hermite-differences/files/source?version=3"
     },
     "title": "Resolving the Hermite coefficient conjectures in OEIS A381423, Comments (revision 8)",

@@ -1,7 +1,7 @@
 {
   "git_blobs": {
     ".github/workflows/pages.yml": "7879724db1358178aad7e9bed326a44be44f5a6a",
-    ".mathesis/generated.json": "0c652fe935cdcbc0e6e526a1feda06b4f35e6a84",
+    ".mathesis/generated.json": "a7a751f8ef02bd158da83776163f53178a9fe456",
     "CHANGELOG.md": "e7476742f12f9bc6fa3a0045d473dc91024c4cfa",
     "CITATION.cff": "dadd16002897213bf016fbd1776069080a0da94d",
     "CONTRIBUTING.md": "ea69168fc2cb506b57b00de1ef588aaf011aa3da",
@@ -13,7 +13,7 @@
     "manuscript/hermite-coefficient-modes-v3/metadata.json": "b0411de862179359a9ee9a5f7a86d3d2e64165c3",
     "manuscript/hermite-coefficient-modes-v3/note.tex": "c8c33cb76e1604e33cffa11fada93cfd522327b9",
     "manuscript/hermite-coefficient-modes-v3/verify.py": "d68bc67442d1abbd3b4fbe0bb35d485e535ab41f",
-    "paper.json": "4da7e1d4ed4e2af8ebd3fa910ad9a1a26067a51c",
+    "paper.json": "7021df585e879365859e9766d68d1accfb4069f4",
     "paper.pdf": "854f5e28bf26d6c71fed39ba155d1356f936093b",
     "site/en/index.html": "3b2a3d9227bdeb4754679dbda7c65cc1b9ac5734",
     "site/index.html": "43c64df0ba940692f568bccffe9a9421b52e1fba",
@@ -39,7 +39,7 @@
   "schema": "mathesis.paper-collection.v1",
   "sha256": {
     ".github/workflows/pages.yml": "f15d983dcb8f324ffdedb50b05f7380e11fda8723d49b5c8f10ef0f414612372",
-    ".mathesis/generated.json": "527b45b4545ca9d47e273264cc87900d0e9bb441d13161ebc5b2be5ce5a1111d",
+    ".mathesis/generated.json": "dc3ee796debd1d3fd7cc0bd78d80bf101dd119c2b64a5ad9173166cfae53868e",
     "CHANGELOG.md": "6f4aa81b05a6f1f9d45a848a8ee77e6502ca78903f8a766ecb41346ee24b2543",
     "CITATION.cff": "8ad01a74d5b2851af2337ed55914b60ed3a57fbd4f81a29767e8c27dd57d06d3",
     "CONTRIBUTING.md": "fafd66e63160b2a88f433af56d2af2b0f7bf6ed2fd417d46b54446ce07c627ff",
@@ -51,7 +51,7 @@
     "manuscript/hermite-coefficient-modes-v3/metadata.json": "477f62a6cb3eef1a810eff91a741dedf7ec4485abfd4d5ac04532ba605617c47",
     "manuscript/hermite-coefficient-modes-v3/note.tex": "7ff60aa2643e4bd3850346d63401de04c9055d8900ac65df141d47c66a1ed901",
     "manuscript/hermite-coefficient-modes-v3/verify.py": "d8f81f36c741b4cba8c538ee7e5a5870df864cecdc2f85efd45c84fadd3aeacd",
-    "paper.json": "da2b8743b7073ce641467bf354dbbe527e9ad2a347e6692d0d4ed90959a809ee",
+    "paper.json": "54cbfc2b1141195ff65f35fed7724e4b449af5e61b610c493c25701315381f4d",
     "paper.pdf": "0470db8befb72219b653b9e6514031002d57c32e136f6ff2dccfbf28daa579ec",
     "site/en/index.html": "2a03822a8a90692c4f8ba82e61e7f38f92013fdde3dfdffed6b03004ffc7f9e8",
     "site/index.html": "c795fbd4ecaac1d4dc01e49dad158e0167c0d3c717aec4a32dc8d891731ea69a",
